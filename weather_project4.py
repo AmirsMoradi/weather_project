@@ -2,7 +2,7 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 
-API_KEY = "24418a6f48cb591c1ed31b5887bfc4c6"
+API_KEY = "************************"
 
 provinces_names = np.array(["Tehran", "Isfahan", "Mashhad", "Shiraz", "Tabriz", "Rasht", "Ahvaz",
                             "Kermanshah", "Kerman", "Yazd", "Qom", "Zahedan", "Sanandaj", "Bandar Abbas", "Zanjan"])
