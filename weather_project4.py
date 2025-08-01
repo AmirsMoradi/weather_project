@@ -25,7 +25,6 @@ provinces_coords = np.array([
     [36.6736, 48.4787]  # Zanjan
 ])
 
-#  Pollutants
 labels = np.array(["pm2_5", "pm10", "co", "o3", "no2", "so2"])
 
 
